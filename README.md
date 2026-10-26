@@ -1,6 +1,9 @@
-Name:Md.shabiya
-Roll no:26000104
-Branch:Computer Science and engeneering(Core)
-Title:9.Bakery and Cake Shop Website
-      18. Hotel Reservation Website Interface
-      19. Adventure and Trekking Website 
+| Name | Section | Roll No. |
+|---|---|---|
+| md shabiya | CSE-2 | 26000104 |
+
+### Projects
+
+1. Bakery and cake shop website
+2. Hotel reservation website interface
+3. Adventure and Trekking website
